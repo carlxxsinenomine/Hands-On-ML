@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5932a8f5-cdf7-4b96-8158-ce71ad1da85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ml-course/hand-on-pandas/pandas-exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-numpy/introduction -to-numpy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/car-sales-extended-missing-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/car-sales-extended.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/car-sales-missing-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/exported-car-sales.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/exported-patient-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/data/heart-disease.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/intro-to-sklearn.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/scikit-learn-what-were-covering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ml-course/hands-on-sklearn/scikit-learn-workflow-example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/.idea/Hands-On-Pandas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/.idea/ml-course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/car-sales-missing-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/hand-on-pandas/data/car-sales-missing-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/car-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/hand-on-pandas/data/car-sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/exported-car-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/hand-on-pandas/data/exported-car-sales.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ml-course/intro-to-pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../ml-course/hand-on-pandas/intro-to-pandas.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../ml-course" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;carlxxsinenomine&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/carlxxsinenomine/Hands-On-Pandas.git&quot;,
+    &quot;accountId&quot;: &quot;d3a8a837-97c1-4bcb-b3cf-0a8a74e2ffd8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="38rnceI2pHXIn2nAg6y9oX4uVdZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Calexx/PycharmProjects/ml-course/hands-on-sklearn/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Calexx\PycharmProjects\ml-course\hands-on-sklearn\data" />
+      <recent name="C:\Users\Calexx\PycharmProjects\ml-course\hands-on-sklearn" />
+      <recent name="C:\Users\Calexx\PycharmProjects\Hands-On-Pandas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Calexx\PycharmProjects\ml-course" />
+      <recent name="C:\Users\Calexx\PycharmProjects\Hands-On-Pandas\hand-on-pandas\data" />
+      <recent name="C:\Users\Calexx\PycharmProjects\Hands-On-Pandas\hand-on-pandas" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.439" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5932a8f5-cdf7-4b96-8158-ce71ad1da85b" name="Changes" comment="" />
+      <created>1769566637776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769566637776</updated>
+      <workItem from="1769566638798" duration="137000" />
+      <workItem from="1769571280875" duration="3875000" />
+      <workItem from="1769577768284" duration="137000" />
+      <workItem from="1769652611766" duration="469000" />
+      <workItem from="1769733613807" duration="4882000" />
+      <workItem from="1769741749466" duration="5221000" />
+      <workItem from="1769859413850" duration="1500000" />
+      <workItem from="1770087188755" duration="31000" />
+      <workItem from="1770377883495" duration="1439000" />
+      <workItem from="1770474615384" duration="70000" />
+      <workItem from="1770786498714" duration="470000" />
+      <workItem from="1771423265194" duration="18000" />
+      <workItem from="1774788832728" duration="1380000" />
+      <workItem from="1774796587499" duration="3000" />
+      <workItem from="1774850733567" duration="5000" />
+      <workItem from="1774867567995" duration="3319000" />
+      <workItem from="1774920049947" duration="3728000" />
+      <workItem from="1774924568244" duration="3812000" />
+      <workItem from="1775094687604" duration="30000" />
+      <workItem from="1776396793634" duration="17000" />
+      <workItem from="1784899941064" duration="532000" />
+      <workItem from="1785154855649" duration="3184000" />
+      <workItem from="1785204394453" duration="6242000" />
+      <workItem from="1785221494529" duration="1394000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
